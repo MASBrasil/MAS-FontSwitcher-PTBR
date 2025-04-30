@@ -27,7 +27,7 @@
 ## Fontes
 Para adicionar e compartilhar mais fontes, você pode usar arquivos JSON.
 Para maior comodidade, haverá um modelo JSON para que você possa editá-lo.
-Clique ![Aqui!](https://github.com/zer0fixer/resource-repository/blob/main/Template.json)
+Clique [Aqui](https://github.com/zer0fixer/resource-repository/blob/main/Template.json)
 
 #### Examplo:
 ```yaml
